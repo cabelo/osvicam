@@ -1,0 +1,7 @@
+[openSUSE_Leap_42.1_OSS]
+name=openSUSE_Leap_42.1_OSS
+baseurl=http://download.opensuse.org/repositories/openSUSE:/Leap:/42.1/standard/
+type=rpm-md
+enabled=1
+autorefresh=1
+gpgcheck=1

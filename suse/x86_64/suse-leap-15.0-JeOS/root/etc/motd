@@ -1,0 +1,9 @@
+This is the Leap 15.0 OSVIACAM Linux System.
+Sugesttions email to: Alessandro de Oliveira Faria cabelo@opensuse.org
+
+To upgrade your system call:
+
+        zypper refresh
+        zypper up
+
+Have a lot of fun...
